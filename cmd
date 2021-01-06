@@ -1,0 +1,13 @@
+/nologo
+/optimize+
+/debug-
+/unsafe-
+/warn:0
+/out:c:/builds/mindpowered/logic/reserved-seating/build/vcs/csharp/bin/reservedseating.dll
+/target:library
+/reference:c:/builds/mindpowered/logic/reserved-seating/build/vcs/csharp/bin/maglev.dll
+src\EnumValue.cs
+src\Type.cs
+src\reservedseating\ReservedSeating.cs
+src\UInt.cs
+src\mindpowered\reservedseating\ReservedSeating.cs
