@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>mindpowered.reservedseating</id>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
     <title>reservedseating</title>
     <authors>Mind Powered Corporation</authors>
     <owners>Mind Powered Corporation</owners>
@@ -11,7 +11,7 @@
     <iconUrl>https://www.website.com/logo.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>ReservedSeating</description>
-    <releaseNotes>Version 0.0.2</releaseNotes>
+    <releaseNotes>Version 0.0.3</releaseNotes>
     <copyright>Copyright 2020 Mind Powered Corporation</copyright>
     <tags>mindpowered</tags>
     <dependencies>
